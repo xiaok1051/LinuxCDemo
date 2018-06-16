@@ -1,3 +1,4 @@
+/*互斥量*/
 #include <stdio.h>
 #include <string.h>
 #include <pthread.h>

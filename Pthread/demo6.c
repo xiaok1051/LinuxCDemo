@@ -1,3 +1,4 @@
+/*条件变量*/
 #include <stdio.h>
 #include <string.h>
 #include <pthread.h>

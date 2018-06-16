@@ -1,3 +1,4 @@
+/*线程创建与销毁*/
 #include <pthread.h>
 #include <string.h>
 #include <stdio.h>
